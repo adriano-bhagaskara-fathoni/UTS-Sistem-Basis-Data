@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ORACLE_Soal_3" id="D1B79E53-96EB-6F6A-D2DD-6A43E680B3BE" version="3.5">
+<createdBy>macairm1</createdBy>
+<createdTime>2026-10-16 07:34:55 UTC</createdTime>
+<ownerDesignName>ORACLE_Soal_3</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D1B79E53-96EB-6F6A-D2DD-6A43E680B3BE</designId>
+</OSDM_Design>
