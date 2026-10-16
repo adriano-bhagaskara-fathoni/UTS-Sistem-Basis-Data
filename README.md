@@ -9,10 +9,3 @@ implementasi skrip DDL pada **PostgreSQL**.
 * PostgreSQL
 * pgAdmin 4
 * Git & GitHub
-
-## Struktur Repositori
-📂 UTS-Sistem-Basis-Data
-│
-├── 📂 modeler_design/         # File desain project Oracle Modeler (.dmd)
-├── 📂 sql_scripts/            # Kumpulan skrip DDL PostgreSQL (.sql)
-└── 📄 README.md               # Dokumentasi proyek
